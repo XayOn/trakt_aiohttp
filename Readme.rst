@@ -1,7 +1,7 @@
 Trakt.tv Python3 API
 --------------------
 
-.. image:: https://img.shields.io/pypi/trakt_aiohttp.svg
+.. image:: https://img.shields.io/pypi/trakt_aiohttp
    :target:  https://pypi.python.org/pypi/trakt_aiohttp/
 
 .. image:: https://img.shields.io/travis/XayOn/trakt_aiohttp.svg
